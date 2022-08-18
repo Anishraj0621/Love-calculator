@@ -1,0 +1,105 @@
+body{
+    font-family: 'DM Sans', sans-serif;
+}
+.logo{
+    width: 160px;
+}
+.btn-outline-warning{
+    color: black;
+    border-color: black;
+}
+.btn-outline-warning:hover{
+    background-color: #fd7e14;
+    color: white;
+    
+}
+.login_btn{
+    background-color: #fd7e14;
+    color: white;
+}
+.login_btn:hover{
+    background-color: #fd7e14;
+    color: white;
+}
+.navbar{
+    background-color: #FFCC33;
+}
+.nav-link{
+    color: black;
+}
+.badge{
+    width: 36px;
+    height: 20px;
+    margin-top: 5px;
+}
+li{
+    list-style:  none;
+}
+.links{
+    color: #fd7e14;
+}
+.links:hover{
+    color: #fd7e14;
+}
+.love_calculator{
+    background-color: #f4f4f4;
+    width: 250px;
+    height: 170px;
+    border-radius: 20px;
+    border: 1px solid #C3C3C3
+}
+.img-fluid{
+    width: 150px;
+    height: 150px;
+}
+h2{
+    font-weight: bold;
+}
+.free_calculate{
+    background-color: #F8F8F8;
+}
+.accordion-body{
+    background-color: #F8F8F8; 
+}
+.border{
+    border-radius: 10px;
+}
+.col-md-2{
+    width: 200px;
+    height: auto;
+    margin: 5px;
+}
+h5{
+    font-weight: bold;
+}
+.Footer_links{
+    background-color: #2C2D2E;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: #fd7e14;
+}
+hr{
+    color: white;
+}
+.store_download{
+    width: 140px;
+}
+.useful_links{
+    background-color: #212529;
+}
+.fa-brands{
+    width: 33px;
+    height: 33px;
+    background-color: #343a40;
+    border-radius: 50%;
+    border: 2px solid #424c5d;
+}
+.fa-brands:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
